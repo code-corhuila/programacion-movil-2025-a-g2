@@ -33,3 +33,5 @@ Este directorio contiene la documentación completa para la aplicación móvil d
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
+
+# Se agregó base backend
